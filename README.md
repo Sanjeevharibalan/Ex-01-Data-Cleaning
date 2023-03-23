@@ -63,3 +63,46 @@ data.info()
 data.isnull().sum()
 ~~~
 # OUPUT
+## Data Cleaning - Data_set.csv
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Read.png)
+
+## Before Cleaning
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(2).png)
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(3).png)
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(4).png)
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(5).png)
+
+## Mode
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Mode.png)
+
+## Mean
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Mean'.png)
+
+## Median
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/Median.png)
+
+## After Cleaning
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/After%20Cleaning.png)
+
+## Data Cleaning - Loan_data.csv
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/image1.png)
+
+## Before Cleaning
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/image2.png)
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/image3.png)
+
+## Mode
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/mean2.png)
+
+## Mean
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/mean2.png)
+
+## Median
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/median2.png)
+
+## After Cleaning
+![Data Cleaning](https://github.com/Sanjeevharibalan/Ex-01-Data-Cleaning/blob/main/image4.png)
+
+
+# RESULT
+Thus the given data is read, cleansed and the cleaned data is saved into the file.
