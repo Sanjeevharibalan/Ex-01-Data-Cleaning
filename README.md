@@ -20,8 +20,7 @@ Save the Clean data to the file
 
 # CODE
 ~~~
-Name : Sanjeev Hari Balan S
-Register Number : 212220220039
+
 **Data Cleaning - Data_set.csv**
 import numpy as np
 import pandas as pd
